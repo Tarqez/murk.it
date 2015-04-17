@@ -47,6 +47,8 @@
 
 .z-gobottom {position: absolute; bottom:0;}
 
+.z-media {padding: 1em 2em;}
+
 @media (max-width: 767px) {
 	.nav {margin-bottom: 1em;}
 	.z-gobottom {position: relative;}

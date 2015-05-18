@@ -1,4 +1,5 @@
-
+@import url("//hello.myfonts.net/count/2dd41f");
+@font-face {font-family: 'HammaMammaJamma-Regular';src: url('webfonts/2DD41F_0_0.eot');src: url('webfonts/2DD41F_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2DD41F_0_0.woff2') format('woff2'),url('webfonts/2DD41F_0_0.woff') format('woff'),url('webfonts/2DD41F_0_0.ttf') format('truetype');}
 
 .container-fluid {
 	border: 0.5em solid #000;
@@ -15,7 +16,7 @@
 }
 
 .page-header h1 {
-	font-family: 'Knewave', cursive;
+	font-family: 'HammaMammaJamma-Regular', cursive;
 	font-size: 8em;
 	color: #000;
 	margin-top: 0;

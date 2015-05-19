@@ -1,10 +1,10 @@
 @font-face {
 	font-family:'hjm';
-	src: url('hjm_gdi.eot');
-	src: url('hjm_gdi.eot?#iefix') format('embedded-opentype'),
-		url('hjm_gdi.woff') format('woff'),
-		url('hjm_gdi.ttf') format('truetype'),
-		url('hjm_gdi.svg#hjm') format('svg');
+	src: url('../hjm_gdi.eot');
+	src: url('../hjm_gdi.eot?#iefix') format('embedded-opentype'),
+		url('../hjm_gdi.woff') format('woff'),
+		url('../hjm_gdi.ttf') format('truetype'),
+		url('../hjm_gdi.svg#hjm') format('svg');
 	font-weight: 400;
 	font-style: normal;
 	font-stretch: normal;

@@ -1,16 +1,3 @@
-@font-face {
-	font-family:'hjm';
-	src: url('../hjm_gdi.eot');
-	src: url('../hjm_gdi.eot?#iefix') format('embedded-opentype'),
-		url('../hjm_gdi.woff') format('woff'),
-		url('../hjm_gdi.ttf') format('truetype'),
-		url('../hjm_gdi.svg#hjm') format('svg');
-	font-weight: 400;
-	font-style: normal;
-	font-stretch: normal;
-	unicode-range: U+0020-2212;
-}
-
 .container-fluid {
 	border: 0.5em solid #000;
 	background-color: #FFCB00;
@@ -72,4 +59,17 @@
 
 @media (max-width: 480px) {
 	.page-header h1 {font-size: 5.5em;}
+}
+
+@font-face {
+	font-family:'hjm';
+	src: url('../font/hjm_gdi.eot');
+	src: url('../font/hjm_gdi.eot?#iefix') format('embedded-opentype'),
+		url('../font/hjm_gdi.woff') format('woff'),
+		url('../font/hjm_gdi.ttf') format('truetype'),
+		url('../font/hjm_gdi.svg#hjm') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-2212;
 }
